@@ -1,0 +1,45 @@
+.container {
+    border: 2px solid red;
+    padding: 0px 5px; 
+     width: 1200px; 
+ }
+ .picbak {
+     background-image: url(../image/pattern.jpg);
+ }
+ h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+ }
+ .pro-1 {
+     font-family: Helvetica;
+     font-size: 32px;
+     font-weight: bold;
+     color: white;
+     background-color: mediumspringgreen;
+     margin-bottom: 20px;   
+ }
+ .pro-2 {
+     font-family: Helvetica;
+     font-size: 32px;
+     font-weight: bold;
+     color: white;
+     background-color: lightcoral;
+     margin-bottom: 20px; 
+ }
+ .pro-3 {
+     font-family: Helvetica;
+     font-size: 32px;
+     font-weight: bold;
+     color: white;
+     background-color: skyblue;
+     margin-bottom: 20px;
+ }
+ span {
+  font-family: Helvetica;
+ font-weight: bold;
+ color: blue;
+ }
+ 
